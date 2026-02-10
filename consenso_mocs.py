@@ -317,7 +317,7 @@ def main():
     dt = 0.01
 
     # ====== ELIGE TOPOLOGÍA ======
-    TOPOLOGY = "complete"  # "chain", "ring", "star", "complete", "pentagram" 
+    TOPOLOGY = "pentagram"  # "chain", "ring", "star", "complete", "pentagram" 
     RUN_ALL_TOPOLOGIES = False  
 
     # N recomendado por topología
